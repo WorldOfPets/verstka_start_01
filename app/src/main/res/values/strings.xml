@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Verstka</string>
+    <string name="hello_wor">Hello wor</string>
+    <string name="click_me">Click me!</string>
+    <string name="registraion_text">Регистрация</string>
+    <string name="text_media_social">Заполните Свои Данные Или\n продолжите через социальные медиа</string>
+</resources>

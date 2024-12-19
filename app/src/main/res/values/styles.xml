@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textRegistration">
+        <item name="android:textColor">@color/matule_black</item>
+        <item name="fontFamily">@font/raleway_bold</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+</resources>
